@@ -1,0 +1,22 @@
+{
+  "key.category.chestpicker.main": "Chest Picker",
+  "key.chestpicker.open_menu": "Open item selection menu",
+  "chestpicker.screen.title": "Chest Picker: items to take",
+  "chestpicker.search": "Search item...",
+  "chestpicker.clear": "Clear",
+  "chestpicker.done": "Done",
+  "chestpicker.only_selected": "Only selected: %s",
+  "chestpicker.auto": "Auto: %s",
+  "chestpicker.on": "ON",
+  "chestpicker.off": "OFF",
+  "chestpicker.speed": "Speed: %s",
+  "chestpicker.speed.0": "slow (1 / 4 ticks)",
+  "chestpicker.speed.1": "calm (1 / 2 ticks)",
+  "chestpicker.speed.2": "normal (1 / tick)",
+  "chestpicker.speed.3": "fast (3 / tick)",
+  "chestpicker.speed.4": "instant",
+  "chestpicker.count": "Selected: %s | Shown: %s",
+  "chestpicker.take": "Take selected",
+  "chestpicker.taken": "Chest Picker: moved %s stack(s)",
+  "chestpicker.nothing_selected": "Chest Picker: no items selected (open the menu with the hotkey)"
+}

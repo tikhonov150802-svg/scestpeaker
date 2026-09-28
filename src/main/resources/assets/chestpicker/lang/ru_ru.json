@@ -1,0 +1,22 @@
+{
+  "key.category.chestpicker.main": "Chest Picker",
+  "key.chestpicker.open_menu": "Открыть меню выбора предметов",
+  "chestpicker.screen.title": "Chest Picker: предметы для сбора",
+  "chestpicker.search": "Поиск предмета...",
+  "chestpicker.clear": "Сбросить",
+  "chestpicker.done": "Готово",
+  "chestpicker.only_selected": "Только выбранные: %s",
+  "chestpicker.auto": "Авто: %s",
+  "chestpicker.on": "ВКЛ",
+  "chestpicker.off": "ВЫКЛ",
+  "chestpicker.speed": "Скорость: %s",
+  "chestpicker.speed.0": "медленно (1 / 4 тика)",
+  "chestpicker.speed.1": "спокойно (1 / 2 тика)",
+  "chestpicker.speed.2": "обычно (1 / тик)",
+  "chestpicker.speed.3": "быстро (3 / тик)",
+  "chestpicker.speed.4": "мгновенно",
+  "chestpicker.count": "Выбрано: %s | Показано: %s",
+  "chestpicker.take": "Забрать выбранное",
+  "chestpicker.taken": "Chest Picker: перемещено стаков: %s",
+  "chestpicker.nothing_selected": "Chest Picker: предметы не выбраны (откройте меню горячей клавишей)"
+}

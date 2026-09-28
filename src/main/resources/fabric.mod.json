@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "chestpicker",
+  "version": "${version}",
+  "name": "Chest Picker",
+  "description": "Quickly takes selected items out of chests. Pick the items in a separate menu.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.chestpicker.ChestPickerClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
