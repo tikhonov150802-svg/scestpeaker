@@ -28,7 +28,7 @@ public final class AutoLooter {
     public static final int SPEED_LEVELS = MOVES.length;
 
     private static AbstractContainerScreen<?> screen;
-    private static AbstractContainerScreen<?> lastAutoScreen;
+    private static Screen lastAutoScreen;
     private static boolean active;
     private static int warmup;
     private static int cooldown;
